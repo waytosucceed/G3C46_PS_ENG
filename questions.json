@@ -1,0 +1,229 @@
+{
+  "heading": "Multiple Meanings and Contexts",
+  "topics": [
+    {
+      "heading": "Multiple meanings of words",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence uses 'bear' to mean 'to carry'?",
+          "options": [
+            { "text": "The bear caught a fish in the river." },
+            { "text": "She had to bear the heavy backpack all day." }
+          ],
+          "answer": 1,
+          "explanation": "In this sentence, 'bear' means to carry or support the weight of something."
+        },
+        {
+          "questionNo": 2,
+          "question": "In the sentence 'Turn right at the corner,' what does 'right' mean?",
+          "options": [
+            { "text": "Correct" },
+            { "text": "The opposite of left" },
+            { "text": "Immediately" }
+          ],
+          "answer": 1,
+          "explanation": "In this context, 'right' is used as a direction, meaning the opposite of left."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which option matches the picture? <br> <img src='./assests/images/json/tear.png' width='150px'/>",
+          "options": [
+            { "text": "A girl crying" },
+            { "text": "A ripped paper" },
+            { "text": "A teardrop" },
+            { "text": "A boy ripping a page from a book" }
+          ],
+          "answer": 3,
+          "explanation": "The action of a boy ripping a page from a book demonstrates this meaning."
+        },
+        {
+          "questionNo": 4,
+          "question": "What does 'ring' mean in 'The phone started to ring'?",
+          "options": [
+            { "text": "A piece of jewellery" },
+            { "text": "A circular shape" },
+            { "text": "To make a sound" }
+          ],
+          "answer": 2,
+          "explanation": "In this sentence, 'ring' is used as a verb meaning to make a sound, specifically the sound a phone makes when someone is calling."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the sentence where 'kind' means 'type':",
+          "options": [
+            { "text": "She is a kind teacher." },
+            { "text": "What kind of music do you like?" },
+            { "text": "It was kind of him to help." }
+          ],
+          "answer": 1,
+          "explanation": "In this question, 'kind' is used to mean 'type' or 'genre' of music."
+        },
+        {
+          "questionNo": 6,
+          "question": "In 'The future looks bright,' what does 'bright' mean?",
+          "options": [
+            { "text": "Shiny" },
+            { "text": "Intelligent" },
+            { "text": "Promising or positive" }
+          ],
+          "answer": 2,
+          "explanation": "In this context, 'bright' is used figuratively to mean promising or positive."
+        },
+        {
+          "questionNo": 7,
+          "question": "What does 'watch' mean in 'I'll watch the sunset'?",
+          "options": [
+            { "text": "To look at" },
+            { "text": "A wrist clock" },
+            { "text": "To be careful" }
+          ],
+          "answer": 0,
+          "explanation": "In this sentence, 'watch' means to look at or observe the sunset."
+        },
+        {
+          "questionNo": 8,
+          "question": "What does 'match' mean in 'These socks don't match'?",
+          "options": [
+            { "text": "To compete against" },
+            { "text": "To be similar or go well together" },
+            { "text": "A stick for making fire" }
+          ],
+          "answer": 1,
+          "explanation": "In this context, 'match' means to be similar or complement each other."
+        },
+        {
+          "questionNo": 9,
+          "question": "In 'I can't bear to watch this sad movie,' what does 'bear' mean?",
+          "options": [
+            { "text": "An animal" },
+            { "text": "To carry" },
+            { "text": "To tolerate" }
+          ],
+          "answer": 2,
+          "explanation": "In this sentence, 'bear' means to tolerate or endure."
+        },
+        {
+          "questionNo": 10,
+          "question": "In 'Can you ring the doorbell?' what does 'ring' mean?",
+          "options": [
+            { "text": "To put a ring (jewellery) on" },
+            { "text": "To make a sound" },
+            { "text": "A circular shape" }
+          ],
+          "answer": 1,
+          "explanation": "In this sentence, 'ring' is a verb meaning to make the doorbell produce a sound."
+        },
+        {
+          "questionNo": 11,
+          "question": "What does 'bright' mean in 'She's the brightest student in class'?",
+          "options": [
+            { "text": "Shiny" },
+            { "text": "Intelligent" }
+          ],
+          "answer": 1,
+          "explanation": "In this context, 'bright' is used figuratively to mean intelligent or clever."
+        },
+        {
+          "questionNo": 12,
+          "question": "In 'I need to watch my diet,' what does 'watch' mean?",
+          "options": [
+            { "text": "To be careful about" },
+            { "text": "A wrist clock" }
+          ],
+          "answer": 0,
+          "explanation": "In this sentence, 'watch' means to be careful about or pay attention to one's diet."
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the sentence where 'kind' means 'variety':",
+          "options": [
+            { "text": "She is a kind person." },
+            { "text": "What kind of car do you drive?" },
+            { "text": "It was kind of you to help." }
+          ],
+          "answer": 1,
+          "explanation": "In this sentence, 'kind' is used as a noun meaning 'type' or 'variety'."
+        },
+        {
+          "questionNo": 14,
+          "question": "Choose the correct spelling:",
+          "options": [
+            { "text": "Freind" },
+            { "text": "Friind" },
+            { "text": "Friend" }
+          ],
+          "answer": 2,
+          "explanation": "The correct spelling is “F-R-I-E-N-D.”"
+        },
+        {
+          "questionNo": 15,
+          "question": "Choose the word that fits both pictures:  <br> <img src='./assests/images/json/matchstick.png' width='140px'/> <img src='./assests/images/json/football.png' width='240px'/>",
+          "options": [
+            { "text": "Kind" },
+            { "text": "Match" },
+            { "text": "Right" }
+          ],
+          "answer": 1,
+          "explanation": "The word 'match' fits both pictures because of its multiple meanings."
+        },
+        {
+          "questionNo": 16,
+          "question": "In 'I'll watch over you,' what does 'watch' mean?",
+          "options": [
+            { "text": "To go up" },
+            { "text": "A wrist clock" },
+            { "text": "To protect or take care of" }
+          ],
+          "answer": 2,
+          "explanation": "In this sentence, 'watch over' means to protect or take care of someone."
+        },
+        {
+          "questionNo": 17,
+          "question": "What does 'match' mean in 'Their outfits match perfectly'?",
+          "options": [
+            { "text": "To compete against" },
+            { "text": "To be similar or go well together" },
+            { "text": "A stick for making fire" }
+          ],
+          "answer": 1,
+          "explanation": "In this context, 'match' means to be similar or complement each other well."
+        },
+        {
+          "questionNo": 18,
+          "question": "Choose the sentence where 'right' means 'correct':",
+          "options": [
+            { "text": "Please take a right from McDonalds." },
+            { "text": "Turn right at the next corner." },
+            { "text": "You got all the answers right!" }
+          ],
+          "answer": 2,
+          "explanation": "In this sentence, 'right' means 'correct' or 'accurate.'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the sentence where 'right' means 'the opposite of left':",
+          "options": [
+            { "text": "You got the answer right!" },
+            { "text": "Everyone has the right to education." },
+            { "text": "I'll be right back." },
+            { "text": "Raise your right hand." }
+          ],
+          "answer": 3,
+          "explanation": "In this sentence, 'right' refers to the side of the body opposite to the left."
+        },
+        {
+          "questionNo": 20,
+          "question": "What does 'match' mean in 'The soccer match starts at 3 PM'?",
+          "options": [
+            { "text": "To be similar" },
+            { "text": "A competition or game" },
+            { "text": "A stick for making fire" }
+          ],
+          "answer": 1,
+          "explanation": "In this context, 'match' is a noun referring to a competitive game or contest."
+        }
+      ]
+    }
+  ]
+}
